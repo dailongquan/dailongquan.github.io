@@ -1,0 +1,11 @@
+@inproceedings{PerazziKPH12,
+  author    = {Federico Perazzi and
+               Philipp Kr{\"a}henb{\"u}hl and
+               Yael Pritch and
+               Alexander Hornung},
+  title     = {Saliency filters: Contrast based filtering for salient region
+               detection},
+  booktitle = {CVPR},
+  year      = {2012},
+  pages     = {733-740}
+}
